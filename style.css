@@ -1,0 +1,47 @@
+.sidebar li .submenu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.sidebar .nav-link {
+  font-weight: 500;
+  font-size: 0.8rem;
+  color: var(--bs-light);
+}
+.sidebar .nav-link:hover {
+  color: var(--bs-warning);
+}
+.hero {
+  background-color: white;
+}
+
+h2,
+p {
+  color: white;
+  margin: 0;
+}
+h3,
+h4 {
+  color: white;
+  margin: 0;
+}
+.logo-asuransi,
+img {
+  /*display: flex; */
+  height: 50px;
+  margin: 0 0.5rem;
+}
+h5,
+hr {
+  color: white;
+}
+p {
+  font-size: 14px;
+}
+.container img {
+  width: 8vw;
+  height: auto;
+}
